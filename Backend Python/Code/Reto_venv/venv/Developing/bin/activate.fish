@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/subk/Cursos/GeeksHubs/Backend Python/Code/GH_Backend_Python/venv/Developing"
+set -gx VIRTUAL_ENV "/home/subk/Cursos/GeeksHubs/Backend Python/Code/Reto_venv/venv/Developing"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
